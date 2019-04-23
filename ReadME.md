@@ -24,7 +24,8 @@ I extended my third project in numerous ways. One of the most obvious ways is th
 In addition, on the actual map I changed the way the user views the show image and name. Before, the user would hover over the abbreviation, causing the image to display over it and the name of the show to display at the top of the page. Now, the user must click on the abbreviation and both the image and name will be displayed in the middle of the screen inside a television. I think that this change makes my work much cleaner and easier for the user to interact with. Before, it was difficult to tell exactly what state the user was hovering over, and the images looked clunky spread out across the screen. But with a clicking feature and having the show image/name displayed in the middle of the screen, the information is concentrated in the same place every time. Overall, I think that my extension succeeds in further developing my conceptual idea of wanting a cleaner, more fun version of the original graphic I found, as well as making interaction easier for the user in general.
 
 <b>Sketch of Extended Piece:</b>
-<p>![Sarah Perrin](images/outline.png?raw=true "Sarah Perrin")</p>
+
+![Sarah Perrin](images/outline.png?raw=true "Sarah Perrin") 
 
 
 <b>Technical Details:</b>
