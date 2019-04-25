@@ -45,5 +45,5 @@ The rest of this code in scene manager was pretty straight forward. In the last 
 
 
 <b>Link to Project’s Full Code:</b>
-<p>Link to beginning scenes' code: https://github.com/sarahperrin10/finalproject </p>
-<p> Link to interactive map's code: https://github.com/sarahperrin10/finalprojectmap</p>
+<p><a href="https://github.com/sarahperrin10/finalproject">Link to beginning scenes' code</a></p>
+<p><a href="https://github.com/sarahperrin10/finalprojectmap">Link to interactive map's code</a></p>
