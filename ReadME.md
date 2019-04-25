@@ -37,6 +37,7 @@ Inside this class, I had to create a "showStates" function that would display th
 ![Sarah Perrin](images/screenshot2.png?raw=true "Sarah Perrin")
 
 In terms of the scenes I created, I had three different animations, which I connected to one another by a “keyPressed” function, the key being the right arrow.
+
 ![Sarah Perrin](images/screenshot1.png?raw=true "Sarah Perrin")
 
 The rest of this code in scene manager was pretty straight forward. In the last animation, I used a hyperlink on the green on-button to link to my interactive map, which is a separate GitHub page. If the mouse is pressed, and the mouse is also within a certain distance to the coordinates of the on-button, then this new window will open. 
