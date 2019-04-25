@@ -29,7 +29,7 @@ In addition, on the actual map I changed the way the user views each show image 
 
 
 <b>Technical Details:</b>
-I used P5.JS for my project and posted it on GitHub. Though it was difficult to create a map in P5 and hard code the coordinates of each state abbreviation, I found that I had much more creative freedom elsewhere to enhance my project. I loaded the data from a table on a CSV file and then created a “State” class that would include the state's abbreviation, its respective position on the map, the show name,and the show image. 
+I used P5.JS for my project and posted it on GitHub. Though it was difficult to create a map in P5 and hard code the coordinates of each state abbreviation, I found that I had much more creative freedom elsewhere to enhance my project. I loaded the data from a table on a CSV file and then created a “State” class that would include the state's abbreviation, its respective position on the map, the show name, and the show image. 
 ![Sarah Perrin](images/screenshot3.png?raw=true "Sarah Perrin")
 
 Inside this class, I had to create a "showStates" function that would display the state abbreviations first and be separated from the TV/show display interaction. I also created a “clicked” function to check if the mouse had been pressed at a state abbreviation. Inside display, if “clicked” was true the corresponding show image and name for that state would be displayed in the center of the screen. I also created a “move” function that would make the show image and name jitter inside the television, shown below:
@@ -44,5 +44,5 @@ The rest of this code in scene manager was pretty straight forward. In the last 
 
 
 <b>Link to Project’s Full Code:</b>
-<p>Link to beginning scenes: https://github.com/sarahperrin10/finalproject </p>
-<p> Link to interactive map: https://github.com/sarahperrin10/finalprojectmap</p>
+<p>Link to beginning scenes' code: https://github.com/sarahperrin10/finalproject </p>
+<p> Link to interactive map's code: https://github.com/sarahperrin10/finalprojectmap</p>
